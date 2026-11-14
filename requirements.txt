@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+streamlit
+sqlalchemy
+pymysql
+cryptography
+python-dotenv
+ipykernel
+nbformat
+streamlit-option-menu
